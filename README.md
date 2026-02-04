@@ -70,7 +70,7 @@ Running a ticket produces:
 - **Ticket work notes** for ServiceNow updates
 - A **close recommendation**
 
-![Final Output](cis-itsm-multiagent-gemini-demo\samples\screenshot.png)
+![Final Output](cis-itsm-multiagent-files/samples/screenshot.png)
 
 ---
 
