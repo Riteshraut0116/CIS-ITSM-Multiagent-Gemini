@@ -23,7 +23,7 @@ Powered by **Google Gemini 2.5 Flash**, with two execution modes:
 
 ## 📂 File Structure
 
-cis-itsm-multiagent-gemini-demo/
+cis-itsm-multiagent-files/
 ├── app/                                   # Application source root
 │   └── src/                               # Python package root (PYTHONPATH target)
 │       └── itsm_agents/                   # Core multi-agent package
@@ -70,7 +70,7 @@ Running a ticket produces:
 - **Ticket work notes** for ServiceNow updates
 - A **close recommendation**
 
-![Final Output](cis-itsm-multiagent-gemini-demo\samples\screenshot.png)
+![Final Output](cis-itsm-multiagent-files/samples/screenshot.png)
 
 ---
 
